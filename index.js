@@ -14,7 +14,7 @@ function start() {
 		const selectedPrefixIndex = readline.keyInSelect(prefixes, 'Choose one option: ')
 		const selectedPrefixText = prefixes[selectedPrefixIndex]
 		
-		return selectedPrefixText
+		return  selectedPrefixText
 	}
 	console.log(content)
 }
