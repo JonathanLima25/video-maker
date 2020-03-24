@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JonathanLima25/video-maker/issues"
   },
-  "homepage": "https://github.com/JonathanLima25/video-maker#readme"
+  "homepage": "https://github.com/JonathanLima25/video-maker#readme",
+  "dependencies": {
+    "algorithmia": "^0.3.10"
+  }
 }
